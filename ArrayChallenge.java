@@ -25,9 +25,5 @@ public class Main {
         // Example 1
         String[] input1 = {"baseball", "a,all,b,ball,bas,base,cat,code,d,e,quit,z"};
         System.out.println(ArrayChallenge(input1)); // Output: base,ball
-
-        // Example 2
-        String[] input2 = {"abcgefd", "a,ab,abc,abcg,b,c,dog,e,efd,zzzz"};
-        System.out.println(ArrayChallenge(input2)); // Output: abcg,efd
     }
 }
